@@ -1,0 +1,18 @@
+Task 1a: Training for isHumor
+Training data amount:  8000
+Training time (in seconds):  0.20624017715454102
+Dev data amount:  1000
+Predicting time (in seconds):  0.010676860809326172
+[INFO]	Task 1a: isHumor Accuracy: 0.778000
+[INFO]	Task 1a: isHumor  F-1 socre: 0.875141
+
+Task 1a: Training for Controversy
+Training data amount:  4932
+Training time (in seconds):  0.193220853805542
+Dev data amount:  632
+Predicting time (in seconds):  0.0083160400390625
+[INFO]	Task 1a: Controversy Accuracy: 0.507911
+[INFO]	Task 1a: Controversy  F-1 socre: 0.673662
+
+Geting results...
+Done
