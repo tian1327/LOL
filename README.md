@@ -10,6 +10,9 @@ The Data folder contains the training, dev, test, and augmented data.
 The Results folder contains the results for the test set and scores from the CodaLab.
 
 Link to SemEval2021: https://semeval.github.io/SemEval2021/tasks.html 
+
 Link to our task 7: https://competitions.codalab.org/competitions/27446 
+
 Link to data: https://competitions.codalab.org/competitions/27446#participate-get_starting_kit (registration for competition maybe required) 
+
 Link to our submission results: https://competitions.codalab.org/competitions/27446#results 
