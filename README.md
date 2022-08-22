@@ -1,9 +1,9 @@
 # LOL
-Laugh or Lour, humor and offense detection using ColBERT model
+Laugh or Lour, humor and offense detection from Text data using ColBERT model
 
 Project for CSCE638 NLP course (Spring 2021). Task 7 for SemEval2021.
 
-We implemented ColBERT for Humor and Offense Detection in text data, comparing against the baselines using Perception and Naive Bayes. Our ColBERT results achieved top-4 global ranking.
+We implemented ColBERT and AlBERT for Humor and Offense Detection in text data, comparing against the baselines using Perception and Naive Bayes. Our ColBERT results achieved top-4 global ranking.
 
 This repo contains all the models and scripts we used for the project.
 The Data folder contains the training, dev, test, and augmented data.
